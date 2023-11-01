@@ -1,5 +1,5 @@
 ## Sensors (zed , realsense, oak-d cameras)
-_SensorPy_ is a collection of sensor wrappers written in Python. It does not aim to include every sensor but to provide convenient (easy-to-use) interfaces for sensors used. The sensor interface was inspired by OpenCV `cv::VideoCapture`.
+This repo is a collection of sensor wrappers written in python. It does not aim to include every sensor but to provide convenient (easy-to-use) interfaces for sensors used. The sensor interface was inspired by OpenCV `cv::VideoCapture`.
 
 -----------------------
 camera_calibration
